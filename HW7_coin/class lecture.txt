@@ -1,0 +1,40 @@
+mass
+spring
+fixed position
+
+damping factor
+e^-al damping neg exponential
+
+at 0, laplace transformation = fourerir trans
+
+eigen function
+
+
+
+
+...
+omega is the eigenvalue
+
+
+we wil collect just the a(t).
+
+find freq
+
+find peaks
+
+exponential fit
+
+A(x) can be found with an actual ruler
+
+
+
+Key things to report
+
+sampling frequency
+       bin size, sampling type (rse), dynamic range
+(power by single 5 voltage supply) --> minimum is 0.
+
+
+
+
+Frequency crossover
